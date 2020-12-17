@@ -45,4 +45,6 @@ Nota:
 
 `good evening`: saludar por la noche 
 
-`good night`: despedirse de la personas  por la  noche |
+`good night`: despedirse de la personas  por la  noche 
+
+[Video de la clase](https://drive.google.com/file/d/145BjQLLjqd-tgv_LtY0YIUUIIZRm3ake/view?usp=sharing)
