@@ -49,5 +49,5 @@ Nota:
 
 
 
-[![Video de la clase](https://drive.google.com/file/d/1T-eMZWkpSS_mjuXofhAZEvvCKl_wt8S0/view)](https://drive.google.com/file/d/1NhZgbDZgfEXpzauV7Udj6qa_xu0grQYP/view?usp=sharing)
+[![Video de la clase](img/basico.png)](https://drive.google.com/file/d/1NhZgbDZgfEXpzauV7Udj6qa_xu0grQYP/view?usp=sharing)
 
