@@ -54,3 +54,14 @@ Nota:
 <video src="https://drive.google.com/file/d/1NhZgbDZgfEXpzauV7Udj6qa_xu0grQYP/view?usp=sharing" poster="https://drive.google.com/file/d/1T-eMZWkpSS_mjuXofhAZEvvCKl_wt8S0/edit" controls></video>
 
 <!-- Probar con los archivos locales, no me salio con enlaces; los videos -->
+
+<video src="https://drive.google.com/file/d/1NhZgbDZgfEXpzauV7Udj6qa_xu0grQYP/view?usp=sharing" autoplay muted loop></video>
+
+
+
+
+\`\`\`ruby <!-- quita esas comillas cuando lo hagas, deja sólo ```ruby ! -->
+def foobar
+    puts "Hello world!"
+end
+\`\`\` <!-- aquí también, sin comillas, sólo ``` -->
