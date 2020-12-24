@@ -36,5 +36,10 @@ it spells ...
     P-E-R-E-Z                    /pi-i-ar-i-zi/
 
 
+
+
+
 Video de la clase
+
+
 [![Video de la clase](img/basico.png)](https://drive.google.com/file/d/1P4whSkgmyytgdh2rVcZzMFwpvUmQwV6R/view?usp=sharing)
